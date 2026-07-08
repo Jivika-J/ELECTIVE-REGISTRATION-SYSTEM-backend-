@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Alice", "dept": "CSE", "cgpa": 9.2, "completedCourses": ["Data Structures", "Probability"] },
+  { "id": 2, "name": "Bob", "dept": "Mechanical", "cgpa": 8.5, "completedCourses": ["Operating Systems"] },
+  { "id": 3, "name": "Charlie", "dept": "ECE", "cgpa": 7.1, "completedCourses": [] }
+]
